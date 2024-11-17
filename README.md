@@ -2,6 +2,7 @@
 
 ### 🚀 About Me
 - **Age:** 13 years old  
+- **Started Coding:** May 10, 2024  
 - **Passionate About:** Coding, Game Development, Discord Bots, Creative Projects, and Learning new tech!  
 - **Current Projects:**  
   - **[PhotoWeb](https://github.com/CalestialAshley35/PhotoWeb)**: Take photos in the web browser instead of using a mobile app.  
@@ -11,7 +12,7 @@
 - **Tech Stack:**  
   - **Languages:** HTML, CSS, JavaScript, Python  
   - **Libraries & Frameworks:** Pygame  
-  - **Tools:** GitHub, CodePen, jsDelivr, CDN  
+  - **Tools:** GitHub, Visual Studio Code, CodePen, jsDelivr, CDN  
 
 ### 🌍 Find Me Online
 - **GitHub:** [CalestialAshley35](https://github.com/CalestialAshley35)  
@@ -31,7 +32,7 @@
 I contribute regularly to open-source projects—check out my [contributions](https://github.com/CalestialAshley35?tab=contributions)!
 
 ### 💡 Fun Facts
-- I started coding at age 10 and have been hooked ever since!  
+- I started coding on May 10, 2024, and have already built some exciting projects!  
 - I love learning new languages and tackling creative challenges.  
 - I’m always exploring new projects that help others learn and grow.
 
